@@ -7,7 +7,7 @@ Pillow==6.1.0
 urllib3==1.24.1
 websocket-client==0.56.0
 requests==2.21.0
-gunicorn==19.9.0
+gunicorn==23.0.0
 django-heroku
 whitenoise
 psycopg2
